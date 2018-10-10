@@ -131,6 +131,7 @@ www.paypal-*.com
 *.cobinhood.com
 *.liberapay.com
 *.liberapay.org
+*.arkadiyt.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.vivy.com
